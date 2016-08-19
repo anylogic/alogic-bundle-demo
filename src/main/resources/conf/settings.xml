@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+	<parameter id="server.app" value="alogic-war-demo"/>
+	<parameter id="server.port" value="8080"/>
+	
+	<!-- 日志目录 -->
+	<parameter id="ketty.logs.home" value="/Users/duanyy/tomcat" system="true"/>
+	
+	<!-- 服务主框架是否开启tracer -->
+	<parameter id="servant.tracer" value="true"/>	
+</settings>
